@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゆっくりK - 悩みごとなんてどうでもいい【オリジナル曲】",
+  "base_artist": "ゆっくりK",
+  "createdAt": "2026-03-02T06:10:31.232307Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悩みごとなんてどうでもいい",
+      "artist": "ゆっくりK",
+      "has_synced": false,
+      "path": "select/pl_01_悩みごとなんてどうでもいい_ゆっくりK.txt"
+    }
+  ]
+}
